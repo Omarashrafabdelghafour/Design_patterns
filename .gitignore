@@ -1,0 +1,45 @@
+# Ignore all IDE configuration files
+.idea/
+*.iml
+*.iws
+
+# Ignore build directories
+target/
+build/
+
+# Ignore dependency directories
+.gradle/
+.mvn/
+out/
+
+# Ignore compiled files
+*.class
+
+# Ignore package files
+*.jar
+*.war
+*.nar
+*.ear
+
+# Ignore temporary and backup files
+*.tmp
+*.bak
+*.swp
+*~ 
+
+# Ignore logs
+*.log
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore coverage reports
+coverage/
+*.eml
+
+# Ignore Eclipse and VS Code settings
+.classpath
+.project
+.settings/
+.vscode/
