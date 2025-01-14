@@ -6,7 +6,7 @@ super(color);
 
     @Override
     public void colorIt() {
-        System.out.println("circle filled");
+        System.out.println("circle filled with");
         color.fillcolor();
     }
 }
